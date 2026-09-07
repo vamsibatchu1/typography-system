@@ -3,7 +3,8 @@
 This folder is the **agent skill**. Open it when you want to install, edit, or share the typography skill for Cursor or Codex — not the playground website.
 
 Repo: https://github.com/vamsibatchu1/typography-system  
-Playground (separate folder): `../whatsmyfont` → https://github.com/vamsibatchu1/find-me-a-font
+
+The pairing playground is a separate private project. Locally it lives next to this folder as `../whatsmyfont`. Do not treat that site as part of this public skill.
 
 ## What to do here
 
